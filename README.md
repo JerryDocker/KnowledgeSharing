@@ -2,6 +2,7 @@
 
 ### CQRS and Event Sourcing
  - [CQRS and Event Sourcing in Java](https://www.baeldung.com/cqrs-event-sourcing-java)
+ - TO CHECK  [WJUG #204 - Marcin Haręza: Event Sourcing - co to, po co to, jak to?](https://youtu.be/dEA6uv0FPpE)
  
 ### Design Patterns in Object Oriented Programming
  - [Design pattern tutorial Christopher Okhravi](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
@@ -23,4 +24,6 @@
 ### JPA
 - [2016 - Jakub Kubryński - JPA - beyond copy-paste](https://youtu.be/UPWkpl5PL_w)
 Very usefull presentation about how to use JPA/hibnernate.
+
+TO CHECK
 
