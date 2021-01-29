@@ -24,6 +24,3 @@
 ### JPA
 - [2016 - Jakub Kubryński - JPA - beyond copy-paste](https://youtu.be/UPWkpl5PL_w)
 Very usefull presentation about how to use JPA/hibnernate.
-
-TO CHECK
-
