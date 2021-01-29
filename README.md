@@ -1,7 +1,5 @@
 ### KnowledgeSharing
-**Table of Contents**
 
-[TOCM]
 ### CQRS and Event Sourcing
  - [CQRS and Event Sourcing in Java](https://www.baeldung.com/cqrs-event-sourcing-java)
  
