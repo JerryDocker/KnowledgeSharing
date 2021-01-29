@@ -4,7 +4,8 @@
  - [CQRS and Event Sourcing in Java](https://www.baeldung.com/cqrs-event-sourcing-java)
  
 ### Design Patterns in Object Oriented Programming
- - [Design pattern tutorial best on youtube](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+ - [Design pattern tutorial Christopher Okhravi](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+  Based on Head First Design Patterns book.
 
 ### Scrum/kanban
  - [WJUG #228 - Jakub Nabrdalik: User Stories considered harmful](https://youtu.be/ATZ0GEMSivM)
