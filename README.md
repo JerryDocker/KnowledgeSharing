@@ -3,7 +3,8 @@
 ### CQRS and Event Sourcing
  - [CQRS and Event Sourcing in Java](https://www.baeldung.com/cqrs-event-sourcing-java)
  - TO CHECK  [WJUG #204 - Marcin Haręza: Event Sourcing - co to, po co to, jak to?](https://youtu.be/dEA6uv0FPpE)
- 
+ - [GOTO 2017 • Wiele znaczeń Architektury Sterowanej Zdarzeniami (Event-Driven) • Martin Fowler](https://youtu.be/STKCRSUsyP0)
+
 ### Design Patterns in Object Oriented Programming
  - [Design pattern tutorial Christopher Okhravi](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
   Based on Head First Design Patterns book.
